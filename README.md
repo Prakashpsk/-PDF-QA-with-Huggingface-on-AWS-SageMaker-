@@ -13,6 +13,8 @@ This project leverages Huggingface's pre-built Question Answering (QA) model, de
 ## ❓ Problem Statement
 How can we build an intelligent system that allows users to ask questions directly from a PDF document and receive accurate answers in real-time?
 
+[Watch Video Explanation Of PDF Question Answering](https://drive.google.com/file/d/1SY24O8gJ3krVzuXVCah6WloLJo0-WLpV/view?usp=drive_link
+
 ## 🌍 Impact of Your Work
 - **Enhanced Accessibility**: Facilitates quick information retrieval from complex documents.
 - **Scalable Solution**: Deployed on AWS SageMaker, ensuring reliability and scalability.
